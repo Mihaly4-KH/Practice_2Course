@@ -1,0 +1,10 @@
+config.ini
+*.log
+build/
+tmp_*
+/temp/
+/cache/
+secret.txt
+/docs/*.pdf
+/docs/*.docs/*
+/backup/
